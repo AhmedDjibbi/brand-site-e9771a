@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://brand-site-e9771a.vercel.app/sitemap.xml

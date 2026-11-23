@@ -1,0 +1,36 @@
+{
+  "business_name": "\ud835\udde6\ud835\uddd8\ud835\udde0\ud835\udff0\ud835\uddda\ud835\uddec\ud835\udde0",
+  "slug": "brand_site_e9771a",
+  "projectId": "14203725788714862957",
+  "tokens": {
+    "industry": "gym",
+    "mood": "Authentic Photo-Extracted (#78685D / #A09D94)",
+    "mood_description": "A bespoke luxury visual atmosphere reflecting \ud835\udde6\ud835\uddd8\ud835\udde0\ud835\udff0\ud835\uddda\ud835\uddec\ud835\udde0, extracted directly from authentic venue photography. Anchored in rich primary #78685D with warm #A09D94 and glowing #E9E9E4 accents, pairing architectural Shippori Mincho headlines with high-legibility Inter copy, set against deep atmospheric background #171713.",
+    "palette": {
+      "primary": "#78685D",
+      "secondary": "#A09D94",
+      "accent": "#E9E9E4",
+      "surface": "#171713",
+      "background": "#171713"
+    },
+    "typography": {
+      "headline": "Shippori Mincho",
+      "body": "Inter"
+    },
+    "action": {
+      "action_label": "Join on WhatsApp",
+      "catalog_name": "Memberships & Training",
+      "unit_name": "Program"
+    }
+  },
+  "screens": {
+    "home_desktop": "cbc855b1e9614a7a97a0bda290e562dc",
+    "home_mobile": "9a079e7e6f2842eda44650eac3deeb08",
+    "services_desktop": "7152f6ef4d55411b8b48c151d0620a59",
+    "services_mobile": "1c41d96f60cb4b7c9aa7624f8205bce8",
+    "about_desktop": "99aa519ee092452b9ba4ff3acfd9bf0c",
+    "about_mobile": "a4ace3a1202a4577ac65ccccbaf5d1dd",
+    "contact_desktop": "76422fb4b47a459ba005ee0c02c4c4b8",
+    "contact_mobile": "09cb7f943109433080073271482b3d8a"
+  }
+}
